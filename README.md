@@ -6,7 +6,7 @@ In between running my own machine learning consultancy and heading up perception
 
 ## Consistency Policy
 
-I distilled [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)'s into consistency models. This was part of a push for me to understand diffusion models in depth.
+I distilled [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)s into consistency models. This was part of a push for me to understand diffusion models in depth.
 
 <img src=".images/consistency_policy.gif" style="width:300px">
 
