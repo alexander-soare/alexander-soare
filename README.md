@@ -49,7 +49,7 @@ After doing a short introductory course to [Angular](https://angular.io/), I fle
 
 <img src=".images/ganspace.gif" style="width:400px">
 
-## A tutorial on the Variation Quantum Eigensolver
+## A tutorial on the Variational Quantum Eigensolver
 
 Just before jumping into ML, I took a quick detour back to quantum computing to check what I'd missed. I'm a strong believer in teaching to learn. So I made a tutorial on VQEs. Check it out [here](https://github.com/alexander-soare/framework-agnostic-vqe-tutorial).
 
