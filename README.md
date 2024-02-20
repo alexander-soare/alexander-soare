@@ -43,7 +43,7 @@ In the [Bristol Myers Squibb - Molecular Translation competition](https://www.ka
 
 30th place in [Kaggle's Global Wheat Detection competition](https://www.kaggle.com/c/global-wheat-detection).
 
-## Interactive web demo of [GANSpace](https://arxiv.org/abs/2004.02546s)
+## Interactive web demo of [GANSpace](https://arxiv.org/abs/2004.02546)
 
 After doing a short introductory course to [Angular](https://angular.io/), I flexed my skills with a web-based front-end that would allow users to flexibly tune attributes of a GAN's output. At the time this was mind-blowing stuff for the general population and computer vision practitioners alike (can you believe that was just 2019!).
 
