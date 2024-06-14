@@ -2,7 +2,11 @@ I started my career in experimental quantum computing with a Masters degree and 
 
 # Projects
 
-In between running my own machine learning consultancy and heading up perception for Dextrous Robotics  (which unfortunately had to [wind down in late 2023](https://techcrunch.com/2024/01/11/dextrous-robotics-closes-up-shop/)), I love to explore and contribute to the ML ecosystem. See below for some highlights. For a summary of my professional work please see my [LinkedIn](https://www.linkedin.com/in/alexander-soare-996145a7/).
+I love to explore and contribute to the ML ecosystem whenever I can. See below for some highlights of my public work. For a summary of my professional curriculum, please see my [LinkedIn](https://www.linkedin.com/in/alexander-soare-996145a7/).
+
+## HuggingFace's LeRobot
+
+I am currently a member of Hugging Face's robotics team and am a core contributor to their open source robotics library [LeRobot](https://github.com/huggingface/lerobot). I mainly focus on modeling, training, and evaluation.
 
 ## Consistency Policy
 
@@ -12,7 +16,7 @@ I distilled [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)s into 
 
 ## Contributed [TorchVision FX feature extraction](https://pytorch.org/vision/stable/feature_extraction.html)
 
-This contribution leverages PyTorch's [symbolic tracing toolkit](https://pytorch.org/docs/stable/fx.html) to provide a compact and intuitive API interface for extracting hidden layers from TorchVision models.
+This contribution leverages PyTorch's [symbolic tracing toolkit](https://pytorch.org/docs/stable/fx.html) to provide a compact and intuitive API for extracting hidden layers from TorchVision models.
 
 I authored a related [blog post](https://pytorch.org/blog/FX-feature-extraction-torchvision/) in the official PyTorch blog.
 
