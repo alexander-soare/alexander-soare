@@ -10,7 +10,7 @@ I am currently a member of Hugging Face's robotics team and am a core contributo
 
 ## Consistency Policy
 
-I distilled [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)s into consistency models. This was part of a push for me to understand diffusion models in depth.
+I distilled [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)s into consistency models. This was part of a push for me to understand diffusion models in depth. See [the writeup and code here](https://github.com/alexander-soare/consistency_policy).
 
 <img src=".images/consistency_policy.gif" style="width:300px">
 
