@@ -4,7 +4,7 @@ I started my career in experimental quantum computing with a Masters degree and 
 
 I love to explore and contribute to the ML ecosystem whenever I can. See below for some highlights of my public work. For a summary of my professional curriculum, please see my [LinkedIn](https://www.linkedin.com/in/alexander-soare-996145a7/).
 
-## HuggingFace's LeRobot
+## Hugging Face's LeRobot
 
 I am currently a member of Hugging Face's robotics team and am a core contributor to their open source robotics library [LeRobot](https://github.com/huggingface/lerobot). I mainly focus on modeling, training, and evaluation. To add my own personal touch to this work, I've started a repository of [little experiments](https://github.com/alexander-soare/little_experiments) where I do deep dives into various aspects of robot learning models.
 
