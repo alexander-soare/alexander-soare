@@ -6,7 +6,7 @@ I love to explore and contribute to the ML ecosystem whenever I can. See below f
 
 ## Hugging Face's LeRobot
 
-I am currently a member of Hugging Face's robotics team and am a core contributor to their open source robotics library [LeRobot](https://github.com/huggingface/lerobot). I mainly focus on modeling, training, and evaluation. To add my own personal touch to this work, I've started a repository of [little experiments](https://github.com/alexander-soare/little_experiments) where I do deep dives into various aspects of robot learning models.
+Throughout 2024 I was a member of Hugging Face's robotics team and was a core contributor to their open source robotics library [LeRobot](https://github.com/huggingface/lerobot). I mainly focussed on modeling, training, and evaluation. To add my own personal touch to this work, I started a repository of [little experiments](https://github.com/alexander-soare/little_experiments) where I did deep dives into various aspects of robot learning models.
 
 ## Consistency Policy
 
